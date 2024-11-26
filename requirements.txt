@@ -1,0 +1,8 @@
+flask
+langchain
+openai
+chromadb
+unstructured
+pypdf
+pandas
+werkzeug
